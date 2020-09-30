@@ -12,3 +12,9 @@
 ***Functionalities***
 1. Base Page
 
+   <img src="school_1.png"  width=600>
+   
+2. Create view
+
+
+
