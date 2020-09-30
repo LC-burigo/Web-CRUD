@@ -28,10 +28,15 @@ When you submit your completed form, automatically you will go to the detail vie
 
 4. Update view
 
-By clicking in update buttom, a new page will open to update this new school, with a form to fill and modify those infomations
+By clicking in [update](#) buttom, a new page will open to update this new school, with a form to fill and modify those infomations
 
    <img src="projeto/school_4.png"  width=600>
    
 5. List view
 
-By clicking in [School](#)
+By clicking in [School](#) you can see all the created Schools \
+:heavy_exclamation_mark: clicking in one school, you can see the details
+
+   <img src="projeto/school_5.png"  width=600>
+
+
