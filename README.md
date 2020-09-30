@@ -1,6 +1,6 @@
 # Web-CRUD
 
-###In this small and simple project, the crud system is shown to manipulate a list of schools and their students. I didn´t create a CRUD system for the students, so just the admin can do that.
+### In this small and simple project, the crud system is shown to manipulate a list of schools and their students. I didn´t create a CRUD system for the students, so just the admin can do that.
 
 ***The meaning of CRUD***
 > C- create a new school \
