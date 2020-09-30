@@ -40,3 +40,4 @@ By clicking in [School](#) you can see all the created Schools \
    <img src="projeto/school_5.png"  width=600>
 
 
+:triangular_flag_on_post: This project, despite being simple, i hope it helps you to better understand the generic views :triangular_flag_on_post:
