@@ -44,6 +44,7 @@ By clicking in [School](#) you can see all the created Schools \
 By writing 127.0.0.1.8000/app_projeto/delete/{pk} you can delete the school corresponding to that primary key 
 
 
+   <img src="projeto/school_6.png"  width=600>
 
 
 
