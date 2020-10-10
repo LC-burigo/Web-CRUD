@@ -38,6 +38,14 @@ By clicking in [School](#) you can see all the created Schools \
 :heavy_exclamation_mark: clicking in one school, you can see the details
 
    <img src="projeto/school_5.png"  width=600>
+   
+6. Delete view
+
+By writing 127.0.0.1.8000/app_projeto/delete/{pk} you can delete the school corresponding to that primary key 
+
+
+
+
 
 
 :triangular_flag_on_post: This project, despite being simple, i hope it helps you to better understand the generic views :triangular_flag_on_post:
